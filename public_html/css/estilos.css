@@ -1,0 +1,13 @@
+
+
+@media (max-width: 767px){
+    .alineacionFormulario{
+        text-align: center;
+    }
+}
+
+@media (min-width: 768){
+    .alineacionFormulario{
+        text-align: left;
+    }
+}
